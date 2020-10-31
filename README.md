@@ -25,4 +25,4 @@
 - [x] HTML
 - [x] Plotly
 - [x] Holoviews
-### Feel free and test these scripts with your data;)
+### Feel free and test these scripts with your data ;)
