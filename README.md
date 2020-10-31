@@ -1,4 +1,4 @@
-# Tutorial_Python_BR_MapPlotly
+# Tutoriais de Mapas interativos no Python - Python Brasil 2020
 
 <img src="https://github.com/nayanemaia/Tutorial_Python_BR_InterativesMaps/blob/main/https___cdn.evbuc.com_images_109322099_171048658487_1_original.jpg" width="600">
 
@@ -22,7 +22,8 @@
 </p> 
 </p> 
 </p> 
-
+# Interactive/Animation Maps Tutorials in Python - Python Brazil 2020
+</p> 
 ### In this repository you will find some examples of interactive/animation maps made in Python, including examples using:
 - [x] Bokeh
 - [x] Geoviews
