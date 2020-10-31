@@ -1,6 +1,6 @@
 # Tutorial_Python_BR_MapPlotly
 
-![Python]('https://github.com/nayanemaia/Tutorial_Python_BR_InterativesMaps/blob/main/https___cdn.evbuc.com_images_109322099_171048658487_1_original.jpg' width="200" height="200")
+<img src="https://github.com/nayanemaia/Tutorial_Python_BR_InterativesMaps/blob/main/https___cdn.evbuc.com_images_109322099_171048658487_1_original.jpg" width="600">
 
 ### Nesse repositório você encontra alguns exemplos de mapas interativos feitos em Python, entre eles exemplos utilizando:
 - [x] Bokeh
