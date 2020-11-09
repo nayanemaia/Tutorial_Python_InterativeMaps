@@ -1,4 +1,4 @@
-# Tutoriais de Mapas interativos no Python - Python Brasil 2020
+# "Tutoriais de Mapas interativos no Python" - Python Brasil 2020
 
 <img src="https://github.com/nayanemaia/Tutorial_Python_BR_InterativesMaps/blob/main/https___cdn.evbuc.com_images_109322099_171048658487_1_original.jpg" width="500">
 
