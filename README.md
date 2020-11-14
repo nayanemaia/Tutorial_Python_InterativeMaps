@@ -16,7 +16,7 @@
 </p> ----------------------------------------------------------------------------------------------------
 </p>
  
-## Interactive and Animation Maps Tutorials in Python - Python Brazil 2020 </p> 
+## "Interactive and Animation Maps Tutorials in Python" - Python Brazil 2020 </p> 
 ### Link tutorial on Youtube - Pyladies São Paulo https://www.youtube.com/watch?v=Fo48Bwn_vhk
 </p> 
 
